@@ -21,7 +21,7 @@
 Bone Broth/ Kalve fond, urter
 
 ### Madplan
-1. [Boeuf Bourguignon](https://www.valdemarsro.dk/kikaertegryde/) med Kartoffelmos (2 kg spidsbryst el.lign)
+1. [Boeuf Bourguignon](https://madsvin.com/boeuf-bourguignon-fransk-nar-det-er-bedst/) med Kartoffelmos (2 kg spidsbryst el.lign)
 2. [Bagt laks](https://madensverden.dk/laks-med-porrer/) med ris
 3. [Grøntsagsfrikadeller](https://www.louisesmadblog.dk/groentsagsfrikadeller-med-groenne-boenner/) med kartofler (2 kg bønner)
 4. [Medister med rødkål](https://madenimitliv.dk/2018/09/medister-svoeb-kartoffelbund) og [Flødekartofler light](https://madensverden.dk/floedekartofler-uden-floede/)
