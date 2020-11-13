@@ -18,7 +18,7 @@
   - persille, timian, rosmarin, estragon, basillikum, purløg, koriander, chilli, ingefær, cornichon (lille glas)
 
 ### Extra
-Bone Broth / Kalve fond, urter, sennepspulver, tørgær.
+Bone Broth / Kalve fond, urter, sennepspulver, tørgær, cumin seeds, mustard seeds
 
 ### Madplan
 1. [Boeuf Bourguignon](https://madsvin.com/boeuf-bourguignon-fransk-nar-det-er-bedst/) med Kartoffelmos (2 kg spidsbryst el.lign)
@@ -52,5 +52,5 @@ Bone Broth / Kalve fond, urter, sennepspulver, tørgær.
 29. [Røsti](https://hoffgaards.dk/opskrifter/laekre-rosti-med-squash-gulerod/)
 30. [Quiche lorraine](https://www.bbc.co.uk/food/recipes/quichelorraine_71987)
 31. [Tapas](https://www.brit.co/tapas-party/)
-32. []()
-
+32. [Bolognese](https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe)
+33. [Stir fry](https://natashaskitchen.com/chicken-stir-fry-recipe/) med ris eller nudler
