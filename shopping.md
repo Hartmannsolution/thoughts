@@ -54,3 +54,4 @@ Bone Broth / Kalve fond, urter, sennepspulver, tørgær, cumin seeds, mustard se
 31. [Tapas](https://www.brit.co/tapas-party/)
 32. [Bolognese](https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe)
 33. [Stir fry](https://natashaskitchen.com/chicken-stir-fry-recipe/) med ris eller nudler
+34. [Ramen (Japanese soup)](https://www.youtube.com/watch?v=Zg-89wuPfVc)
