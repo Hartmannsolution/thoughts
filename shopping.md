@@ -18,7 +18,7 @@
   - persille, timian, rosmarin, estragon, basillikum, purløg, koriander, chilli, ingefær, cornichon (lille glas)
 
 ### Extra
-Bone Broth / Kalve fond, urter, sennepspulver, tørgær, cumin seeds, mustard seeds
+Bone Broth / Kalve fond, urter, sennepspulver, tørgær, cumin seeds, mustard seeds, pickles/conichoner, hørfrøolie, hørfrø, svedsker, pistachienødder usaltede, røget makrel, solsikkeolie
 
 ### Madplan
 1. [Boeuf Bourguignon](https://madsvin.com/boeuf-bourguignon-fransk-nar-det-er-bedst/) med Kartoffelmos (2 kg spidsbryst el.lign)
