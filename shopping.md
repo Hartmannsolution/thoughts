@@ -18,7 +18,7 @@
   - persille, timian, rosmarin, estragon, basillikum, purløg, koriander, chilli, ingefær, cornichon (lille glas)
 
 ### Extra
-Bone Broth / Kalve fond, urter, sennepspulver, tørgær, cumin seeds, mustard seeds, pickles/conichoner, hørfrøolie, hørfrø, svedsker, pistachienødder usaltede, røget makrel, rapsolie, hørfrøolie, avocadoolie, limabønner (butterbeans), sorte bønner, mirin (japansk sherry), marinerede sild, frossen makrel/sild,
+Bone Broth / Kalve fond, urter, **sennepspulver**, tørgær, cumin seeds, mustard seeds, pickles/conichoner, hørfrøolie, hørfrø, svedsker, pistachienødder usaltede, **røget makrel**, rapsolie, **hørfrøolie**, avocadoolie, **limabønner (butterbeans)**, **sorte bønner**, **mirin (japansk sherry)**, **marinerede sild**, **frossen makrel/sild**, **lime frugter**
 
 
 ### Madplan
@@ -36,7 +36,7 @@ Bone Broth / Kalve fond, urter, sennepspulver, tørgær, cumin seeds, mustard se
 12. [Bruscetta](https://twin-food.dk/3-x-bruschetta/) eller [med kantareller](https://baregomad.dk/bruschetta-med-smoerristede-kantareller/) eller [med cremet mørbrad](https://nogetiovnen.dk/moerbrad-a-la-creme-i-ovn-moer-laekker-opskrift/)
 13. [pizza]()
 14. [chilli con canrne](https://emmamartiny.dk/chili-con-carne/)
-15. [burritos](https://www.youtube.com/watch?v=n76noIAaAuY&ab_channel=JoshuaWeissman) / [quesadillas](https://www.youtube.com/watch?v=0TRokMB9AnI&ab_channel=JoshuaWeissman) / [enchiladas](https://www.youtube.com/watch?v=wNQx34RQZtI&ab_channel=HowToBasic) with [frijoles refritos](https://40aprons.com/refried-black-beans/)
+15. [burritos](https://www.youtube.com/watch?v=n76noIAaAuY&ab_channel=JoshuaWeissman) / [quesadillas](https://www.youtube.com/watch?v=0TRokMB9AnI&ab_channel=JoshuaWeissman) / [enchiladas](https://www.youtube.com/watch?v=wNQx34RQZtI&ab_channel=HowToBasic) with [frijoles refritos](https://40aprons.com/refried-black-beans/) and [pico de gallo](https://cookieandkate.com/classic-pico-de-gallo-recipe/)
 16. [Hel ovnbagt kylling]() med [bagte rodfrugter]()
 17. [stegt Kylling bryst]() med [salat]()
 18. [Stegt lamme culotte eller lammekølle]() med [bagte rodfrugter]()
@@ -57,3 +57,8 @@ Bone Broth / Kalve fond, urter, sennepspulver, tørgær, cumin seeds, mustard se
 33. [Stir fry](https://natashaskitchen.com/chicken-stir-fry-recipe/) med ris eller nudler
 34. [Ramen (Japanese soup)](https://www.youtube.com/watch?v=Zg-89wuPfVc)
 35. [Dampede muslinger](https://www.alt.dk/mad/opskrift/dampede-muslinger-i-cremet-suppe)
+
+
+### Treats
+1. [![](https://www.tasteofhome.com/wp-content/uploads/2018/01/exps3775_BHD153762C07_10_2b-5-696x696.jpg)](https://www.tasteofhome.com/recipes/pecan-pie-bars/)
+
