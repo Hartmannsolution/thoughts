@@ -6,15 +6,15 @@
 - 120 ml vegetable oil
 - 180 ml warm water
 
-Kneat dow and rest for 1-2 hours. Roll out to 30 cm diameter
+Kneat dough and rest for 1-2 hours. Roll out to 30 cm. diameter
 
 - 80 g. butter
 - 450 g. flour
 - 5 g. salt
 - 250 ml water (add gradually to right consistency)
 - mix and kneat for 4-5 minutes
-- Rest the dough for 1-2 hours (minimum 20 min.)
-- cut out 60-75 g. sizes for burrito size and 25 g. size for taco size. and for small balls and keep under wrapping not to dry out.
+- rest the dough for 1-2 hours (minimum 20 min.)
+- cut out 55-75 g. sizes for burrito size and 30 g. size for taco size. and for small balls and keep under wrapping not to dry out.
 - Roll out thin and bake on hot cast iron for 30 sek flip plus 10 sek.
 
 
@@ -43,6 +43,9 @@ Processen kan speedes op ved at bruge varmt vand (omkring 50-55 grader ikke mere
 DU behøver ikke lade kernerne bløde op i vand først, da det bliver blødet op ved at stå de mindst 12 timer i den ekstra våde dej. Bag brødet først 35 minutter ved 250 og derefter 15 minutter ved 230 Jeg har erfaret at hvis jeg putter for mange kerner i, så bliver brødet temmelig smuldreagtigt. Put evt. græskarkerner eller havregryn i bunden af gryden så brødet får en ekstra lækker bund. Bagetiden forlænges jo flere kerner der er i.
 
 Dejen kan bruges til pizza ved at dele i 4 dele efter første hævning. Efter anden hævning strækkes dejen mens man forsøger at bevare så meget luft i dejen som muligt.
+
+### Rugbrød på [gær](https://tantestrejf.dk/rugbroed-med-gaer/)
+
 
 ### Barbeque Sauce
 - Ketchup – 500 ml.
@@ -142,4 +145,11 @@ Combine edamame, garlic, basil, pine nuts, and yogurt in a food processor; pulse
 Soy sauce + corn starch to thick sticky consistency
 Marinate for 30+ min.
 
-
+## Desserter
+#### Tante Marthas æblekage
+100 g. smør
+100 g. sukker
+75 g. mel
+røres sammen til en creme
+6 store æbler skrælles og skæres i mindre tern
+Kom i fad med 1 dl vand og strø ½ spsk vanillesukker over. Smør cremen over æblerne og bag ved 200 grader til overfladen er brun og lækker (omkring 30 min).
