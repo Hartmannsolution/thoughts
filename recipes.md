@@ -20,7 +20,7 @@ Kneat dough and rest for 1-2 hours. Roll out to 30 cm. diameter
 
 saute bacon, onions, jalapeno and garlic, then after 8 min add beans, stock and butter and reduce 85% to creamy consistency.
 
-### No knead bread (med kerner) i støbejernsgryde.
+### No knead bread (med og uden kerner) i støbejernsgryde.
 Uden kerner:
 - 1 l mel (ca. 625 gram)
 - 5 dl vand
@@ -30,7 +30,7 @@ Uden kerner:
 Med kerner
 - 3dl kerner (eller 60 g. af både græskar- og solsikkekerner)
 - 7dl vand (da kernerne suger vand)
-- samlet 700gr mel. 
+- samlet 700 g. mel. 
 
 - Lad dejen hæve i 10-18 timer
 - fold et par gange og læg i skål på bagepapir
@@ -46,7 +46,16 @@ Dejen kan bruges til pizza ved at dele i 4 dele efter første hævning. Efter an
 
 ### Rugbrød på [gær](https://tantestrejf.dk/rugbroed-med-gaer/)
 
+### Risengrød
+1 liter mælk
+110 gram grødris (1 1/4 dl)
+½ tsk salt
+Varm ovnen op til 120 grader.
+Sæt risengrøden ind i ovnen i en gryde eller et ildfast fad.
+Bag det i 2 timer. Sætter du det ind i en kold ovn, så giv det 10 minutter mere.
+Rør rundt en gang imellem, for at checke om det brænder på. Ca. hver ½ time
 
+## Sauces
 ### Barbeque Sauce
 - Ketchup – 500 ml.
 - Apple Cider Vinegar – 2-3 tbsp.
@@ -60,7 +69,6 @@ Dejen kan bruges til pizza ved at dele i 4 dele efter første hævning. Efter an
 
 Lightly simmer all ingredients for 10 mins and put on jar in fridge.
 
-## Sauces
 ### Burrito sauce
 - 4-5 slices bacon
 - 1 yellow onion
@@ -153,3 +161,56 @@ Marinate for 30+ min.
 røres sammen til en creme
 6 store æbler skrælles og skæres i mindre tern
 Kom i fad med 1 dl vand og strø ½ spsk vanillesukker over. Smør cremen over æblerne og bag ved 200 grader til overfladen er brun og lækker (omkring 30 min).
+
+### Crepes
+milk (300 ml)
+flour (175 ml)
+pinch salt
+sugar (10 ml), optional
+3 eggs, beaten with a whisk
+2 tbsp.  melted butter (25 ml)
+
+Combine the milk with sifted flour in a medium bowl.  Whisk to blend all the flour in.  Add sugar, if using, and salt.  Add the beaten eggs and whisk until batter is smooth. Strain if desired.  Batter should resemble loose cream.  If making crepes, same day, let rest in fridge for 30 minutes.  Then remove and add melted butter.  Note, if you refrigerate batter for longer, you need to add butter before chilling or it will not blend with mixture. 
+Lightly butter an 8 inch crepe pan over medium high heat.  Using a paper towel , wipe some melted butter over entire pan.  Pour 2 Tbsp. (25 ml) batter into the top of pan and swirl around so batter reaches the outer edges of pan evenly.  Cook 1st side for 50 seconds - 1 minute.. Flip and cook other side for 30 seconds.  Repeat with remaining batter. 
+
+## cakes and cookies
+### oat cookies for next try
+- 2 dl unrefined sugar
+- 3 dl coconut oil melted, or light olive oil
+- 4 eggs
+- 1 teaspoon vanilla extract
+- 4 dl rolled oats
+- 3 dl whole wheat pastry flour
+- 2 teaspoons aluminum free baking powder
+- 1 dl wheat germ, oat bran also works well or use husk or chopped flax seeds.
+- 2 dl choc chips and 2 cup walnuts/almonds/peanut chopped lightly.
+
+- Preheat oven to 180 C. 
+- Line two cookie sheets with parchment paper and set aside. 
+- Use 4 cookie baking sheets at once, much faster
+- Mix wet and dry ingredients seperately 
+- Combine until all of the ingredients are mix thoroughly.
+- With a medium cookie scoop, place cookie batter onto prepared cookies sheets. 
+- Flatten them out with the palm of your hand slightly and bake for 12-14 minutes.
+
+Cool cookies on the cookie sheet for 2-3 minutes before transferring them to a wire rack to cool completely.
+
+
+### oat cookies from jools oliver (a bit boring and dry).
+200-250 g. oat flakes (amount depends on whether almonds, chocolate and seeds are added)
+100 g. flour
+½ tsp baking soda
+1 tsp mixed spice (cinnemon, ginger, cardemom)
+1 handful of raisins
+1 tbsp of mixed seeds (sunflower, pumpkin)
+10 chopped almonds (optional)
+Optionally add chocolate chips
+Mix it
+In another bowl mix
+100 g. butter
+50 g. brown sugar
+50 g. white sugar
+1 egg
+Form about 24 cookies (12 on each sheet) or roll in baking paper and freeze. Then when needed cut slices from frozen and bake (2-3 min more when frozen). 
+Cook in oven 180 degrees for 8-10 min.
+

@@ -3,7 +3,7 @@
 2. [Bagt laks](https://madensverden.dk/laks-med-porrer/) med ris
 3. [Grøntsagsfrikadeller](https://www.louisesmadblog.dk/groentsagsfrikadeller-med-groenne-boenner/) med kartofler (2 kg bønner)
 4. [Medister med rødkål](https://madenimitliv.dk/2018/09/medister-svoeb-kartoffelbund) og [Flødekartofler light](https://madensverden.dk/floedekartofler-uden-floede/)
-5. [omelet](https://www.bbcgoodfood.com/recipes/ultimate-french-omelette) med rugbrød
+5. [omelet](https://www.bbcgoodfood.com/recipes/ultimate-french-omelette) med rugbrød eller [fritatas med kartofler i](https://youtu.be/iPFoYpgUpY4?t=622).
 6. [Frikadeller med stuvet spinat](https://voresmad.dk/opskrifter/frikadeller-med-stuvet-spinat-boernevenlig-fremgangsmaade#)
 7. [Cesar salad](https://www.dr.dk/mad/opskrift/ceasar-salad)
 8. [Linsegryde](https://mummum.dk/indisk-linsegryde/) eller [dhal](https://muttionline.dk/livretter/daal-dahl-indisk-dhal-med-groensager/) (ekstra stor portion)
@@ -35,7 +35,8 @@
 34. [Ramen (Japanese soup)](https://www.youtube.com/watch?v=Zg-89wuPfVc)
 35. [Dampede muslinger](https://www.alt.dk/mad/opskrift/dampede-muslinger-i-cremet-suppe)
 36. [Flæskesteg/Ribbenssteg](https://www.youtube.com/watch?v=ZlgWCXycjk4&ab_channel=JamieOliver) med roasted vege
-
+37. [Risengrød](recipes.md)
+38. [Stuffed crepes](https://www.youtube.com/watch?v=SvyuzrXwTic&ab_channel=FrenchCookingAcademy) for the freezer
 
 ### Treats
 1. [![](https://www.tasteofhome.com/wp-content/uploads/2018/01/exps3775_BHD153762C07_10_2b-5-696x696.jpg)](https://www.tasteofhome.com/recipes/pecan-pie-bars/)
@@ -49,3 +50,7 @@
 9. [chocolate mousse](https://tasty.co/recipe/chocolate-mousse)
 10. [cheese cake](https://www.youtube.com/watch?v=Ov4u0ARMWKQ)
 11. [lemon tart](https://www.belfasttelegraph.co.uk/life/food-drink/recipes/recipe-lemon-tart-28673722.html) or [lemon-lime curd tart](https://www.taste.com.au/recipes/lemon-lime-curd-tarts/4c65e7fe-191a-4659-b8f3-7f7181d054ca)
+12. [eton mess: strawberry summer dessert](https://www.bbcgoodfood.com/recipes/eton-mess)
+13. [baked peaches](https://www.madabc.dk/6/ferskner-bagt) med [sabayonne](https://www.youtube.com/watch?v=9bQkgCm12mQ)
+14. [oranges in sabayonne](https://www.dr.dk/mad/opskrift/grund-sabayonne)
+15. [crepes](recipes.md)
