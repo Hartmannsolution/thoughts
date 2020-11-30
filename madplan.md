@@ -14,8 +14,8 @@
 13. [pizza]()
 14. [chilli con canrne](https://emmamartiny.dk/chili-con-carne/)
 15. [burritos](https://www.youtube.com/watch?v=n76noIAaAuY&ab_channel=JoshuaWeissman) / [quesadillas](https://www.youtube.com/watch?v=0TRokMB9AnI&ab_channel=JoshuaWeissman) / [enchiladas](https://www.youtube.com/watch?v=wNQx34RQZtI&ab_channel=HowToBasic) with [frijoles refritos](https://40aprons.com/refried-black-beans/) and [pico de gallo](https://cookieandkate.com/classic-pico-de-gallo-recipe/)
-16. [Hel ovnbagt kylling]() med [bagte rodfrugter]()
-17. [stegt Kylling bryst]() med [salat]()
+16. [Hel ovnbagt kylling](https://www.youtube.com/watch?v=bJeUb8ToRIw) med [bagte rodfrugter]()
+17. [Stegt Kyllingebryst]() med [salat]()
 18. [Stegt lamme culotte eller lammekølle]() med [bagte rodfrugter]()
 19. [lamb stew](https://keto-plans.com/2020/05/14/easy-lamb-stew/)
 20. [gulash](https://www.valdemarsro.dk/gullash/)
@@ -37,6 +37,8 @@
 36. [Flæskesteg/Ribbenssteg](https://www.youtube.com/watch?v=ZlgWCXycjk4&ab_channel=JamieOliver) med roasted vege
 37. [Risengrød](recipes.md)
 38. [Stuffed crepes](https://www.youtube.com/watch?v=SvyuzrXwTic&ab_channel=FrenchCookingAcademy) for the freezer
+39. [Kartoffelmosfrikadeller](https://madenimitliv.dk/2017/12/kartoffelfrikadeller/) eller [Rösti](https://hoffgaards.dk/opskrifter/laekre-rosti-med-squash-gulerod/)
+40. [Okse tværreb (shortribs)](https://www.lecreuset.dk/da_DK/braiserede-short-ribs/r0000000000605.html)
 
 ### Treats
 1. [![](https://www.tasteofhome.com/wp-content/uploads/2018/01/exps3775_BHD153762C07_10_2b-5-696x696.jpg)](https://www.tasteofhome.com/recipes/pecan-pie-bars/)
@@ -54,3 +56,4 @@
 13. [baked peaches](https://www.madabc.dk/6/ferskner-bagt) med [sabayonne](https://www.youtube.com/watch?v=9bQkgCm12mQ)
 14. [oranges in sabayonne](https://www.dr.dk/mad/opskrift/grund-sabayonne)
 15. [crepes](recipes.md)
+16. [20 chokolade boller](https://mummum.dk/chokoladeboller/) eller lav halv portion
