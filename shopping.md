@@ -18,7 +18,7 @@
   - persille, timian, rosmarin, estragon, basillikum, purløg, koriander, chilli, ingefær, cornichon (lille glas)
 
 ### Extra
-Bone Broth / Kalve fond, urter, **sennepspulver**, tørgær, cumin seeds, mustard seeds, pickles/conichoner, hørfrøolie, hørfrø, svedsker, pistachienødder usaltede, **røget makrel**, rapsolie, **hørfrøolie**, avocadoolie, **limabønner (butterbeans)**, **sorte bønner**, **mirin (japansk sherry)**, **marinerede sild**, **frossen makrel/sild**, **lime frugter**, **Havre klid**,
+Bone Broth / Kalve fond, urter, **sennepspulver**, tørgær, cumin seeds, mustard seeds, pickles/conichoner, hørfrøolie, hørfrø, svedsker, pistachienødder usaltede, **røget makrel**, rapsolie, **hørfrøolie**, avocadoolie, **limabønner (butterbeans)**, **sorte bønner**, **mirin (japansk sherry)**, **marinerede sild**, **frossen makrel/sild**, **lime frugter**, **Havre klid**, **rørsukker**
 
 
 

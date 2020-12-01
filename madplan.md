@@ -47,7 +47,7 @@
 4. [lagkage](http://www.kvalimad.dk/page/alt-om-vanille-aegge-creme/uuid/34d2e84a-4f7c-11e6-8fdc-f8b04083d107)
 5. [tante Marthas æblekage](recipes.md)
 6. [brownie](https://www.bigoven.com/recipe/brownie-recipie/2408565)
-7. [chocolate chip cookies](https://www.youtube.com/watch?v=rEdl2Uetpvo&t=2)
+7. [chocolate chip cookies](https://www.youtube.com/watch?v=rEdl2Uetpvo&t=2) or [this one](https://www.youtube.com/watch?v=f-M3JN_7LGU)
 8. [Flan caramel](https://www.youtube.com/watch?v=HdufWM8P2rU&ab_channel=Food52)
 9. [chocolate mousse](https://tasty.co/recipe/chocolate-mousse)
 10. [cheese cake](https://www.youtube.com/watch?v=Ov4u0ARMWKQ)
