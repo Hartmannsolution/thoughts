@@ -1,4 +1,47 @@
 # recipes
+## Content
+1. [Preps](##-Preps)
+1. [Brød](##-Breads)
+2. [Grød](##-Grød)
+2. [Sauces](##-Sauces)
+2. [Chicken](##-Chicken)
+3. [Pork](##-Pork)
+2. [Desserter](##-)
+2. [Cakes and cookies](##-)
+2. [Vegetarian](##-)
+
+## Preps
+### Greens
+- Peeled carots
+- Washed lettuce (store with paper towel)
+- Baked veges (broccoli, coliflower, squash, pumpkin, onions, bell pepper, aubergine, )
+### Grains
+- Cook rice for salads and fried rice
+- Bake chickpeas [like this](https://www.valdemarsro.dk/ristede-kikaerter/)
+- 
+### Garlic-ginger paste
+- 100 g ginger
+- 150 g garlic
+- 1 tbsp tumeric (optional)
+- 1 tbsp oil
+Blend well in handmixer and store for up to a month. (or freeze for 6 months)
+
+### Sauces
+- Avocado sauce
+- Vinegar sauce
+- Barbeque sauce
+- Flavoured mayo (garlic, ketchup, lemon, sweet mustard)
+- Hummus
+### Meats
+- Pulled pork
+- Fried deboned chicken thighs
+- Fried bacon padded dry from fat and finely chopped.
+### Breads
+- Tortilla
+- Bread in a pot
+- [Chapati (Roti)](https://www.youtube.com/watch?v=R5f_3tEXuNc&ab_channel=Raihana%E2%80%99sCuisines)
+
+## Breads
 ### Wheat Tortilla
 - 300 g  all purpose flour
 - 180 ml warm water
@@ -46,6 +89,7 @@ Dejen kan bruges til pizza ved at dele i 4 dele efter første hævning. Efter an
 
 ### Rugbrød på [gær](https://tantestrejf.dk/rugbroed-med-gaer/)
 
+## Grød
 ### Risengrød
 1 liter mælk
 110 gram grødris (1 1/4 dl)
@@ -153,6 +197,28 @@ Combine edamame, garlic, basil, pine nuts, and yogurt in a food processor; pulse
 Soy sauce + corn starch to thick sticky consistency
 Marinate for 30+ min.
 
+## Pork
+### Pulled pork
+Dry rub (*2 for sauce):
+- 2 spsk rørsukker
+- 2 spsk brun farin
+- 2 spsk salt
+- 2 spsk sød paprika
+- 1 spsk røget paprika
+- 1 spsk cayenne/chilli peber
+- 1 spsk stødt spidskommen
+- 1 tsk sennepsfrø, stødt til pulver eller 1 tsk sennepspulver
+- 1 tsk hvidløgspulver
+- 1 tsk løgpulver
+- 1 tsk sort peber, friskkværnet
+Pork loin (Nakkefilet/Flæskesteg)
+Day 1:
+Rub the pork and leave in plastic bag in fridge for 4-10 hours
+Day 2: 
+1. Roast in oven at 110 degrees Celcius for 9-14 hours (center temp at 90 degrees) on wire tray with water in pan underneath.
+2. Remove fat from sauce and boile down with the extra set of dry rub + ketchup and apple juice.
+3. Thread the meat and pour over the sauce.
+
 ## Desserter
 #### Tante Marthas æblekage
 100 g. smør
@@ -174,11 +240,12 @@ Combine the milk with sifted flour in a medium bowl.  Whisk to blend all the flo
 Lightly butter an 8 inch crepe pan over medium high heat.  Using a paper towel , wipe some melted butter over entire pan.  Pour 2 Tbsp. (25 ml) batter into the top of pan and swirl around so batter reaches the outer edges of pan evenly.  Cook 1st side for 50 seconds - 1 minute.. Flip and cook other side for 30 seconds.  Repeat with remaining batter. 
 
 ## cakes and cookies
-### oat cookies for next try
-- 2 dl unrefined sugar
-- 3 dl coconut oil melted, or light olive oil
+### oat cookies (much sweeter but to cakey)
+- 2 olive oil (or light melted coconut oil)
 - 4 eggs
 - 1 teaspoon vanilla extract
+- 2 dl unrefined sugar
+DRY:
 - 4 dl rolled oats
 - 3 dl whole wheat pastry flour
 - 2 teaspoons aluminum free baking powder
@@ -197,20 +264,21 @@ Cool cookies on the cookie sheet for 2-3 minutes before transferring them to a w
 
 
 ### oat cookies from jools oliver (a bit boring and dry).
-200-250 g. oat flakes (amount depends on whether almonds, chocolate and seeds are added)
-100 g. flour
-½ tsp baking soda
-1 tsp mixed spice (cinnemon, ginger, cardemom)
-1 handful of raisins
-1 tbsp of mixed seeds (sunflower, pumpkin)
-10 chopped almonds (optional)
-Optionally add chocolate chips
+DRY:
+- 200-250 g. oat flakes (amount depends on whether almonds, chocolate and seeds are added)
+- 100 g. flour
+- ½ tsp baking soda
+- 1 tsp mixed spice (cinnemon, ginger, cardemom)
+- 1 handful of raisins
+- 1 tbsp of mixed seeds (sunflower, pumpkin)
+- 10 chopped almonds (optional)
+- Optionally add chocolate chips
 Mix it
-In another bowl mix
+WET: In another bowl mix
 100 g. butter
+1 egg
 50 g. brown sugar
 50 g. white sugar
-1 egg
 Form about 24 cookies (12 on each sheet) or roll in baking paper and freeze. Then when needed cut slices from frozen and bake (2-3 min more when frozen). 
 Cook in oven 180 degrees for 8-10 min.
 

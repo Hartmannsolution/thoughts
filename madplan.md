@@ -7,7 +7,7 @@
 6. [Frikadeller med stuvet spinat](https://voresmad.dk/opskrifter/frikadeller-med-stuvet-spinat-boernevenlig-fremgangsmaade#)
 7. [Cesar salad](https://www.dr.dk/mad/opskrift/ceasar-salad)
 8. [Linsegryde](https://mummum.dk/indisk-linsegryde/) eller [dhal](https://muttionline.dk/livretter/daal-dahl-indisk-dhal-med-groensager/) (ekstra stor portion)
-9. [Burgere](https://www.youtube.com/watch?v=8MsDZ1UQw0g)
+9. [Burgere](https://www.youtube.com/watch?v=8MsDZ1UQw0g) med [coleslaw](https://www.valdemarsro.dk/coleslaw/) og evt. [pulled pork](recipes.md)
 10. [Lasagne]() (stor portion) / [veg version](https://www.jamieoliver.com/recipes/vegetables-recipes/aubergine-lasagne/)
 11. [Rejer i hummersuppe](https://madsvin.com/hummerbisque-skummende-og-flamberet/) med hvidløgsflutes
 12. [Bruscetta](https://twin-food.dk/3-x-bruschetta/) eller [med kantareller](https://baregomad.dk/bruschetta-med-smoerristede-kantareller/) eller [med cremet mørbrad](https://nogetiovnen.dk/moerbrad-a-la-creme-i-ovn-moer-laekker-opskrift/)
@@ -21,7 +21,7 @@
 20. [gulash](https://www.valdemarsro.dk/gullash/)
 21. [Osso buco](https://www.valdemarsro.dk/osso-buco/)
 22. [Nyretapper](https://madensverden.dk/nyretapper/) med [timian kartofler](https://madensverden.dk/timiankartofler/)
-23. [Marineret Flap meat](https://madensverden.dk/flap-meat/) med [Sous vide bernaise](https://madensverden.dk/sauce-bearnaise-sous-vide/)
+23. [Marineret Flap meat](https://madensverden.dk/flap-meat/) med [Sous vide bernaise](https://madensverden.dk/sauce-bearnaise-sous-vide/) eller [alm. bernaise](https://thenovicechefblog.com/bearnaise/)
 24. [Kammuslinger med blomkålspuré](https://www.sprinklesandsprouts.com/scallops-cauliflower-mash/)
 25. [Broccolisuppe](https://www.youtube.com/watch?v=2KR44a_5v_A)
 26. [Græskarsuppe](https://www.youtube.com/watch?v=9ETDaLMBhho&ab_channel=GordonRamsay) or [this version](https://www.youtube.com/watch?v=GALGSMd2bUg&ab_channel=Woolworths)
