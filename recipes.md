@@ -17,8 +17,9 @@
 - Baked veges (broccoli, coliflower, squash, pumpkin, onions, bell pepper, aubergine, )
 ### Grains
 - Cook rice for salads and fried rice
+- Cook Pearl barley for salads and stews
 - Bake chickpeas [like this](https://www.valdemarsro.dk/ristede-kikaerter/)
-- 
+- Qinoa
 ### Garlic-ginger paste
 - 100 g ginger
 - 150 g garlic
@@ -36,6 +37,7 @@ Blend well in handmixer and store for up to a month. (or freeze for 6 months)
 - Pulled pork
 - Fried deboned chicken thighs
 - Fried bacon padded dry from fat and finely chopped.
+- Sous vide (cuvette, spidsbryst, )
 ### Breads
 - Tortilla
 - Bread in a pot
