@@ -88,6 +88,18 @@ Processen kan speedes op ved at bruge varmt vand (omkring 50-55 grader ikke mere
 DU behøver ikke lade kernerne bløde op i vand først, da det bliver blødet op ved at stå de mindst 12 timer i den ekstra våde dej. Bag brødet først 35 minutter ved 250 og derefter 15 minutter ved 230 Jeg har erfaret at hvis jeg putter for mange kerner i, så bliver brødet temmelig smuldreagtigt. Put evt. græskarkerner eller havregryn i bunden af gryden så brødet får en ekstra lækker bund. Bagetiden forlænges jo flere kerner der er i.
 
 Dejen kan bruges til pizza ved at dele i 4 dele efter første hævning. Efter anden hævning strækkes dejen mens man forsøger at bevare så meget luft i dejen som muligt.
+### No-knead ciabatta
+https://www.youtube.com/watch?v=YX_6l2bmvQI
+
+3½ cup flour
+½ cup whole wheat
+1/4 tsp dry yeast
+1½ tsp salt
+2 cups warm water
+cover and sit for 18 hours (roomtemp)
+stretch out on plastic wrap (layed on watery desktop) with flour on top to form the right flat long shape.
+Tip over on corn mealed tray. Rest covered for 2 hours then bake at 220 degrees for 35-40 min.
+
 
 ### Rugbrød på [gær](https://tantestrejf.dk/rugbroed-med-gaer/)
 
