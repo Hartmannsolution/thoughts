@@ -40,9 +40,10 @@
 |Arundhati Roy | De små tings gud |7|Kultur / Social|    
 |Selma Lagerlöf|Niels Holgersens vidunderlige rejse gennem Sverige|5|Kultur|    
 | Jan Guillou | Tempelridderen |5|Historie / Spænding |    
-|||||
-|||||
-|||||
+|Tolkien|Hobitten|5|Eventyr|
+|    Henning Kure, Peter Madsen & Hans Rancke-Madsen|Valhalla (1) - Ulven er løs|3|Underholdning|
+|Claus Deleuran|Thorfinn|3|Underholdning|
+|J.K.Rowling|Harry Potter|6|Eventyr/Mysterie|
 |||||
 
 
