@@ -60,17 +60,17 @@
 | Hans Scherfig| Det forsømte forår|8|Historie/Kultur|
 | Johannes V. Jensen| Kongens Fald |8|Historie/Kultur|
 | Tolstoy| Krig og fred|8|Historie/Kultur|
-| Tolstoy| Anna Karanina||8|Historie/Kultur|
-| Dostoyevski| Idioten||9|Historie/Kultur|
-| Rifbjerg| Den kroniske uskyld||9|Historie/Kultur|
-| Svend Aage Madsen | Se dagens lys||9|Historie/Kultur|
-| Orwell| 1964||9|Historie/Kultur|
-| George Orwell | Kamerat Napoleon||9|Historie/Kultur|
-| Svend Åge Madsen| Tugt og utugt i mellemtiden||9|Historie/Kultur|
-| Victor Hugo| De elendige||9|Historie/Kultur|
+| Tolstoy| Anna Karanina|8|Historie/Kultur|
+| Dostoyevski| Idioten|9|Historie/Kultur|
+| Rifbjerg| Den kroniske uskyld|9|Historie/Kultur|
+| Svend Aage Madsen | Se dagens lys|9|Historie/Kultur|
+| Orwell| 1964|9|Historie/Kultur|
+| George Orwell | Kamerat Napoleon|9|Historie/Kultur|
+| Svend Åge Madsen| Tugt og utugt i mellemtiden|9|Historie/Kultur|
+| Victor Hugo| De elendige|9|Historie/Kultur|
 | Hamsun| Sult||9|Historie/Kultur|
-| Herman Hesse| Siddharta / Glasperlespillet.||9|Historie/Kultur|
-| William Golding| Fluernes herre||9|Historie/Kultur|
+| Herman Hesse| Siddharta / Glasperlespillet.|9|Historie/Kultur|
+| William Golding| Fluernes herre|9|Historie/Kultur|
 |Karl Eskelund|Min kone spiser med pinde|8|Kultur|
 |Jung Chang| Vilde svaner|8|Kultur|
 |Isabel Allende|Åndernes Hus|7| Kultur|
