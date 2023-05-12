@@ -1,7 +1,7 @@
 # Books to read
 | Forfatter | Titel | Sværhedsgrad |Genre|
 | -- | -- | -- |--|
-| Jostein Gorder|Sofies verden|6|Filosofi|
+| Jostein Gaarder|Sofies verden|6|Filosofi|
 |Richard Adams | Kaninbjerget|6|Spænding|
 |Carol Lewis| Alice i eventyrland|6|Fantasi|
 |Jens Sigsgaard | Palle alene i verden|1|Billedbog|
