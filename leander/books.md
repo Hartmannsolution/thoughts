@@ -23,10 +23,9 @@
 |  Ole Lund Kirkegård| Hodja fra Pjort / Orla frøsnapper / Gummi Tarzan.|3|Underholdning|
 |  John Kenn Mortensen| Små onde svin??|4|Gyser|
 |  Manu Sareen| Iqbal Farooq|3|Underholdning|
-|  Dan Brown| Da vinci mysteriet.|7||
-| Ukendt | Tusind og en nats eventyr|4||
-|Peter Krogholm| Hitman. Bind 1-3|4|Hitman. Bind 1
-Af Peter Krogholm
+|  Dan Brown| Da vinci mysteriet.|7|Mysterie|
+| Ukendt | Tusind og en nats eventyr|4|Eventyr|
+|Peter Krogholm| Hitman. Bind 1-3|4|Spænding|
     
 
  
