@@ -44,6 +44,7 @@
 |    Henning Kure, Peter Madsen & Hans Rancke-Madsen|Valhalla (1) - Ulven er løs|3|Underholdning|
 |Claus Deleuran|Thorfinn|3|Underholdning|
 |J.K.Rowling|Harry Potter|6|Eventyr/Mysterie|
+|Paulo Coelho|The Alchemist |5|Filosofi| 
 |||||
 
 
@@ -53,10 +54,10 @@
 | -- | -- | -- |--|
 |Stig Larsson|Mænd der hader kvinder|6|Mysterie/Spænding|
 |Haruki Murakami |Kafka på stranden|7|Mystererie|
-| Ernest Hemingway| 'Hvem ringer klokkerne for|7|Biografi|
-| John Steinbeck| 'Øst for paradis'|8|Historie/Kultur|
-| Harper Lee| 'Dræb ikke en sangfugl'|9 |Historie/Kultur|
-| Hans Scherfig| 'Det forsømte forår'|8|Historie/Kultur|
+| Ernest Hemingway| Hvem ringer klokkerne for/Den gamle mand og havet|7|Biografi|
+| John Steinbeck| Øst for paradis|8|Historie/Kultur|
+| Harper Lee| Dræb ikke en sangfugl|9 |Historie/Kultur|
+| Hans Scherfig| Det forsømte forår|8|Historie/Kultur|
 | Johannes V. Jensen| Kongens Fald |8|Historie/Kultur|
 | Tolstoy| Krig og fred|8|Historie/Kultur|
 | Tolstoy| Anna Karanina||8|Historie/Kultur|
@@ -75,7 +76,11 @@
 |Isabel Allende|Åndernes Hus|7| Kultur|
 |Robert Louis Stevenson|Strange case of Dr. Jekyll and mister Hyde|8|Spænding| 
 |Sir Arthur Conan Doyle|Sherlock Holmes - En Studie I Rødt (1887)|6|Mysterie|    
-||||| 
+|Carlos Castaneda|Don Juan teachings|8|Filosofi| 
+|F. Scott Fitzgerald’|Den store Gatsby|9|Litteratur| 
+|Charlotte Brönte|Jane Eyre|9|Litteratur| 
+|Herman Melville|Moby Dick|8|Littetur| 
+|Albert Camus|The Stranger|8|Litteratur| 
 ||||| 
 
 ## Film
