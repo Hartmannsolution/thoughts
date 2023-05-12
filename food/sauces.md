@@ -56,8 +56,19 @@ Sour cream
 Salt
 Pepper
 
-- In a blender combine cilantro, garlic, juice of half a lime, oil, and half a container of sour cream. Season with salt and pepper. Add remaining half of sour cream, mix by hand. 
- 
+- In a blender combine cilantro, garlic, juice of half a lime, oil, and half a container of sour cream. Season with salt and pepper. Add remaining half of sour cream, mix by hand.  
+
+### Cilantro tomato sauce (good with totillas)
+1 pk cherry tomatoes  
+1 small onion  
+Bake under grill in oven til blistered  
+Blend with  
+1 pk cilantro  
+juice of 1 lime  
+1 smoked jalapeno (pickled) or some chilly and smoked paprika powder.  
+salt and peper.
+
+
 ### The White Sauce 
 
 Mayo

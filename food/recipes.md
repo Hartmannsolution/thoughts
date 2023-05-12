@@ -88,20 +88,106 @@ Processen kan speedes op ved at bruge varmt vand (omkring 50-55 grader ikke mere
 DU behøver ikke lade kernerne bløde op i vand først, da det bliver blødet op ved at stå de mindst 12 timer i den ekstra våde dej. Bag brødet først 35 minutter ved 250 og derefter 15 minutter ved 230 Jeg har erfaret at hvis jeg putter for mange kerner i, så bliver brødet temmelig smuldreagtigt. Put evt. græskarkerner eller havregryn i bunden af gryden så brødet får en ekstra lækker bund. Bagetiden forlænges jo flere kerner der er i.
 
 Dejen kan bruges til pizza ved at dele i 4 dele efter første hævning. Efter anden hævning strækkes dejen mens man forsøger at bevare så meget luft i dejen som muligt.
+
+### Sour dough version:
+
+https://www.youtube.com/watch?v=kp3ZYkzbg9Q&ab_channel=FarmhouseonBoone
+- 700 g. flour
+- 200 g. whole wheat flour
+- 650 g. water
+rest for 30 min - 60 min.
+- 200 g. mature starter
+- 20 g. salt
+rest for 30 min. covered
+- 4-6 stretch and fold in first 2 hours
+rest for 3-8 hours (depending on temp. hydration and taste)
+- Shape into a ball and rest for 30 min uncovered
+- place in beneton bag (tea towel covered bowl) and rest in fridge for 14 hours.
+- heat oven to max and score the loaf with a razor
+- bake for 20 min with lit and additional 20-30 min without lit (till proper color)
+
+### My sour dough version for bread or bunns
+"White flour" should have 11-12% protein.
+{"flour": {
+    "øland wholegrain":1,
+    "øland sifted (or leave out)":3,
+    "white flour or half manitoba":6},
+"water":"80-83%", 
+"salt":"2-3.5%", 
+"levain":"20%-30%"}
+
+1. Friday morning: Take sourdough scrapings (1 tsp) from fridge and add 75g of wholewheat flour and of water. 
+2. Friday 6-8 hours later sourdough should have doubled - Now add 600 g bread flour and 400 g of water 13 g salt (maybe do autolyse for 1 hour without the sourdough and salt).
+3. Machine kneated for 10 min.
+4. Let sit outside for 3 hours til risen about 30%
+6. Sit in fridge for 12-18 hours 
+7. Saturday morning: Put pizza stone and water tray in oven and varm to 250 degrees c. and take dough from fridge (form the bunns and put on paper or if bread fold it over and put it in a bowl with parcment paper) let sit for 1-2 hours
+8. Bake bunns at 200 degrees for 10 min then 230 till colored right.
+
+### Or like [This guy](https://www.youtube.com/watch?v=ZxCf39G_7pY&ab_channel=CulinaryExploration)
+Recipe Ingredients:
+Starter (100% hydrated)
+Scrapings from the jar
+55g Water
+55g Flour
+
+Main dough
+388g strong white bread flour
+257g water
+8g salt
+98g starter
+
+
+
+
 ### No-knead ciabatta
 https://www.youtube.com/watch?v=YX_6l2bmvQI
 
-3½ cup flour
-½ cup whole wheat
-1/4 tsp dry yeast
-1½ tsp salt
-2 cups warm water
-cover and sit for 18 hours (roomtemp)
-stretch out on plastic wrap (layed on watery desktop) with flour on top to form the right flat long shape.
-Tip over on corn mealed tray. Rest covered for 2 hours then bake at 220 degrees for 35-40 min.
+- 3½ cup flour
+- ½ cup whole wheat
+- 1/4 tsp dry yeast
+- 1½ tsp salt
+- 2 cups warm water
+Steps:
+- cover and sit for 18 hours (roomtemp)
+- stretch out on plastic wrap (layed on watery desktop) with flour on top to form the right flat long shape.
+- Tip over on corn mealed tray. Rest covered for 2 hours then bake at 220 degrees for 35-40 min.
+
+
+### [Lette Ciabatta flutes](https://www.youtube.com/watch?v=pQMkBSeC9Ds&ab_channel=Nybyggerne-AnneogSimon)
+
+- 20 g. gær
+- 5 dl. lunken vand 
+- 8-9 dl. hvedemel (ca 60 g/dl) 540 g.
+- 2 tsk salt
+Steps:
+Bland alle ingredienser og lad hvile i 10 min.
+Maskin ælt til dejen slipper siderne på high speed. (tilføj mel hvis den ikke slipper efter 10 min.)
+Dæk dejen til og stil den lunt. Lad hæve i omkring 3 timer
+Skær den våde dej ud til flutes og put på melet bagepapir. Bag ved højeste varme i 15 min.
 
 
 ### Rugbrød på [gær](https://tantestrejf.dk/rugbroed-med-gaer/)
+
+### Surdejsbrød
+surdejen: 
+feed it 1:3:3 (1 del surdejsstarter til 3 dele vand og 3 dele mel) passer til at skulle fodre den en gang i døgnet når den sidder ude v. stuetemp.
+feed it 25:100:100 en gang om ugen i køleskab. Når det skal bruges tages det ud 24 timer før og fodres morgen og aften v. stuetemp.
+dejen: 100% mel (10% fuldkornsmel til 90% hvidt mel) til 65-75% vand, 20% surdejsstarter (svarer til omkring 6 timers hævetid) og 2% salt.
+(lav omkring 300 gr. surdejs starter så der er 200 gram at bage af og 100 gram at forsætte med.)
+Autolyse (bland vand og mel og lad det sidde 1 time (minimum 20 min) inden saltet og surdejsstarteren tilsættes.)
+Surdejstesten (tag forsigtigt klump af starter og læg i vand. Det skal flyde ovenpå.)
+Tid (12-20 timer) giver gluten development, men hvis man ønsker mere struktur skal dejen ældes.
+Low hidration (65%) kan ældes i hånden i omkring 10 min (vindues testen: stræk et lille stykke dej til der kommer lys igennem. Kan man det er gluten strukturen god.). (Herefter kan den passe sig selv i de næste 12 timer: bulk fermentation)
+High hidration (75%) kan ikke ældes, men skal i stedet foldes over (stretch and fold). (Dette skal gøres oftere (3-4 gange med 20-30 min mellemrum i de første 2 timer) efter blandingen og igen flere gange.). Higher hidration dough er godt når vi har mange kerner og kan være mere saftig og bedre blød krumme. 
+
+Forsigtigt stræk og fold dejen fra alle 4 sider (letter fold method) og form derefter forsigtigt til rund form. Lad hvile i 20 min - 2 timer (afhængig af hvor meget luft der er i dejen - tjek med poke metoden: Stik fingeren ind i dejen og den skal kun langsomt komme op igen). Hvis den kommer op hurtigt skal den "proofes" i lidt længere tid.
+
+Optional: Retarding: Put i køleskab i 12-14 timer for at give mere syrlighed og smag til brødet.
+
+Bag i støbejernsgryde i meget varm ovn: 260 grader, efter at have snittet dejens overflade (efter 20 min fjernes låget. Fortsæt til brødet er mørkt i farven: omkring 20 min ved 230 grader).
+Køl brøddet helt ned (et par timer) inden det bliver skåret for ikke at miste fugtighed og smag.
+
 
 ## Grød
 ### Risengrød
@@ -298,6 +384,8 @@ Cook in oven 180 degrees for 8-10 min.
 
 ## Vegetarian
 #### Dahl
+[Alternative recipe here](https://rainbowplantlife.com/restaurant-style-vegan-dal-tadka/)
+
 Vegan Red Lentil Curry
 
 Originally published: April 9, 2018. Updated: September 25, 2020. 
@@ -341,3 +429,118 @@ For serving: Basmati or Jasmine rice and Indian flatbread such as roti, paratha,
 - Remove the lid and stir in the coconut milk, almond butter, along with salt and pepper to taste Continue cooking on low heat, uncovered for 5 to 8 minutes, until the curry has thickened and is creamy. Finally, stir in the lemon juice and cilantro, and turn off the heat
 - If you want your lentils to even creamier and more on the puréed side, use an immersion blender to lightly purée the curry
 - Serve the curry with rice and/or flatbread. Store leftovers in the fridge for 3-4 days.
+
+#### Aloo gobi
+1 stk blomkål i små stykker
+- 3 stk kartofler i små stykker
+- 1 stk løg hakket
+- 2 stk mellemstore tomater hakket
+- 2 spsk ingefær revet
+- 4 fed hvidløg hakket
+- 1 stk frisk chili hakket
+- 2 spsk olie
+- 1 spsk salt
+- 1 tsk spidskommen
+- 1 tsk sorte sennepsfrø
+- 1 tsk surkemeje
+- 1 tsk stødt koriander
+- 1 tsk Garam masala
+- 3 spsk frisk koriander hakket 
+Fry potatoes and coliflower 10 min. on medium heat. In another pan roast the spices and add onion after 2 min. Add chopped tomatoes and salt. Mix all and fry for another 10 min. Serve with freshly chopped coriander.
+
+#### Vegetarian curry
+2 spsk olie
+- 1 tsk spidskommen
+- 2 tørrede chili røde
+- 3 nelliker
+- 1 stang kanel 4 cm.
+- 3 grønne kardemommefrø knuste
+- 1 stort rødløg hakket
+- 3 fed hvidløg hakket
+- 1 spsk ingefær revet
+- 1 dåse hakkede tomater
+- 200 ærter
+- 250 gram champignons i skiver
+- 1 tsk garam masala
+- ½ tsk gurkemeje
+- 1 tsk stødt koriander
+- 1 tsk salt
+- 1 tsk sukker
+- 2 spsk frisk koriander hakket
+Fry mushrooms and set aside. Heat spices in saucepan and add onions - fry for 2-3 min. add garlic and ginger and fry for 3 min. Add chopped tomatoes and salt and cook for 4 min. Add sugar and cook for 3 min. Add mushrooms and peas and cook for 5 min. 
+
+#### gobi-manchurian 
+https://rainbowplantlife.com/gobi-manchurian/
+##### Manchurian Sauce
+- 3 tablespoons oil 
+- 1- inch piece ginger, chopped
+- 5 garlic cloves, chopped
+- 1 to 2 serrano peppers, chopped
+- 1 large shallot (or 1/2 of a small red onion), finely diced
+- 6 scallions, whites and light green parts chopped (dark green tops sliced on a bias and reserved for garnish)
+- ½ cup (60g) chopped green bell pepper
+- 2 tablespoons soy sauce or tamari
+- 1 1/2 tablespoons sambal oelek or chili-garlic sauce
+- 1 tablespoon distilled white vinegar
+- 1 teaspoon toasted sesame oil
+- 3 tablespoons organic ketchup
+- 2 tablespoons organic brown sugar
+- ½ tablespoon cornstarch + 1 tablespoon cold water
+- 1 handful of fresh cilantro, chopped (for garnish) 
+
+##### Fried Cauliflower
+- 1 small head of cauliflower, cut into florets 
+- 70g flour 
+- 45g cornstarch
+- 1 teaspoon grated garlic, 
+- 1 teaspoon finely grated ginger
+- 3/4 teaspoon chili powder
+- 3/4 teaspoon kosher salt
+- 120 mL water
+- Vegetable oil or high-heat oil for deep frying
+
+#### Curry with tofu
+[Here is the recipe](https://rainbowplantlife.com/vegan-curry-with-tofu/)
+
+#### Chickpea stew
+Looking soooo delisious (and comes with general cooking advice about indian cuisine)
+[Here is the recipe](https://rainbowplantlife.com/braised-indian-chickpea-stew/)
+
+### Deserts
+
+#### Creme brulé
+- 1 egg (or 2 yokes)
+- 50 g. sugar
+- 2 dl double cream (.5 dl can be milk)
+- third stick of vanilla (or 2 drops of vanilla extract)
+
+Boil everything except egg. cool to body temp and add egg and stir.
+bake in ramakins in water bath in oven 150 celcius for 30 min (till right consistency: alive but not fluid)
+
+### Oatscakes
+https://nogetiovnen.dk/havretern-med-nougat-laekre-havregrynssnitter/ 
+- 75 gram smør
+- 3½ dl havregryn jeg brugte finvalsede
+- ¾ dl sukker rørsukker eller brun farin kan også bruges
+- 1 tsk vaniljesukker
+- 1 spsk hvedemel
+- 3½ spsk sirup både lys og mørk kan bruges
+- 1 knivspids salt
+- 100 gram blød nougat kan erstattes med smeltet chokolade, mørk, mælke- eller hvid chokolade
+- 1 håndfuld mandler
+
+#### Sådan gør du
+
+- smelt smørret i en gryde. Sluk for varmen og bland alle de andre ingredienser i
+- beklæd en bageform med bagepapir. Min bageform målte 13x30 cm, men en form på f.eks. 15x25 ell. 20x20 kan også bruges. Helst en firkantet form, da kagen skal udskæres i tern
+- bag nu kagen ca. 20 minutter v. 175 grader varmluft. Den er færdig, når den er sprød og gylden. Tjek kagen de sidste minutter
+- fordel straks nougat skiver på den varme kage, efter den er kommet ud af ovnen. Tip: Det er nemt at udskære nougat'en med en ostehøvl
+- smør nougat'en godt ud i alle hjørner på kagen
+- drys hakkede mandler på toppen af nougat'en og tryk mandelstykkerne godt ned i kagen.
+- lad kagen afkøle helt, før du udskærer den i tern. Jeg fik 18 stk af denne portion. Lav ikke stykkerne for store, da stykkerne er ret søde
+- stil kagen til afkøling, et køligt sted. Nougat'en vil stivne helt, hvis kagen opbevares i køleskab, men den er sprød og nougat'en blød og lækker, hvis du opbevarer den på køkkenbordet.
+- Opbevares i tætsluttende beholder i køleskab eller på køkkenbord. Holdbarhed 2-3 uger. De er også fryseegnede.
+
+
+
+
