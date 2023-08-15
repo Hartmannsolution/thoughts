@@ -28,11 +28,12 @@
 |Peter Krogholm| Hitman. Bind 1-3|4|Spænding|
 |Enid Blyton|De 5 på Skatteøen|4|Spænding|
 |Robert Arthur|Alfred Hitchcock og De tre Detektiver|4|Spænding|
-|Hergé|Tintin og Enhjørningens hemmelighed + Rackam Den rødes skat|3|Spænding|
+|Hergé|Tintin og Enhjørningens hemmelighed + Rackam Den rødes skat/Krabben med de gyldne klør|3|Spænding|
 |René Goscinny|Lucky Luke|3|Underholdning|
 |René Goscinny|Asterix og Profeten|3|Underholdning|
 |André Franquin|Splint og CO: Havmysteriet|3|Spænding|
 |Christian Christensen|En rabarberdreng vokser op|7|Biografi|
+|Bjarne Reuter|Løgnhalsen fra Umbrien |7|Historie/Underholdning|
 |Peter Høeg|Frøken Smillas fornemmlser for sne|7|Spænding|
 |Jack London| En Klondike helt|7|Historie/Kultur|    
 |Leif Panduro | Høfeber|6|Kultur|    
@@ -45,6 +46,7 @@
 |Claus Deleuran|Thorfinn|3|Underholdning|
 |J.K.Rowling|Harry Potter|6|Eventyr/Mysterie|
 |Paulo Coelho|The Alchemist |5|Filosofi| 
+|Aesop|Aesops fabler|5|Kultur|
 |||||
 
 
@@ -81,6 +83,9 @@
 |Charlotte Brönte|Jane Eyre|9|Litteratur| 
 |Herman Melville|Moby Dick|8|Littetur| 
 |Albert Camus|The Stranger|8|Litteratur| 
+|Kirosaki|Rich dad, Poor dad|4|English, Finance| 
+|Steven Covi|7 habits of highly effective People|5|Spirituality, Life hacks| 
+|Michael A. Singer|The Untethered Soul|10|Spirituality| 
 ||||| 
 
 ## Film
@@ -88,5 +93,15 @@ Kærlighed og mørke 1994
 Hjerter i Chilli 1992
 Chocolat 2000
 Godfather
+Kampen om ilden
 
 
+
+
+## Inspiratoin
+|Titel|Tidsforbrug|Beskrivelse|
+|--|--|--|
+|[Hvordan man træner sin evne til at fokusere](https://www.youtube.com/watch?v=_Y-7liNT1Ok&ab_channel=AfterSkool)|20min|Stanfor professor forklarer hvordan hjernen virker i forhold til at fokusere|
+|[Hvordan man får det bedste ud af livet ved at starte dagen rigtigt #testosterone #dopamine](https://www.youtube.com/watch?v=gR_f-iwUGY4&ab_channel=AfterSkool)|16min|Andrew Huberman, Ph.D., is a neuroscientist and tenured Professor in the Department of Neurobiology at the Stanford University School of Medicine|
+||||
+||||
