@@ -1,14 +1,14 @@
 # recipes
 ## Content
-1. [Preps](##-preps)
-2. [Brød](##-breads)
-3. [Grød](##-grød)
-4. [Sauces](##-sauces)
-5. [Chicken](##-chicken)
-6. [Pork](##-pork)
-7. [Desserter](##-desserts)
-8. [Cakes and cookies](##-cakes-and-cookies)
-9. [Vegetarian](##-vegetarian)
+1. [Preps](#preps)
+2. [Brød](#breads)
+3. [Grød](#grød)
+4. [Sauces](#sauces)
+5. [Chicken](#chicken)
+6. [Pork](#pork)
+7. [Desserter](#desserts)
+8. [Cakes and cookies](#cakes-and-cookies)
+9. [Vegetarian](#vegetarian)
 
 ## Preps
 ### Greens
