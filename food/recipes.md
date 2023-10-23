@@ -1,14 +1,14 @@
 # recipes
 ## Content
-1. [Preps](##-Preps)
-1. [Brød](##-Breads)
-2. [Grød](##-Grød)
-2. [Sauces](##-Sauces)
-2. [Chicken](##-Chicken)
-3. [Pork](##-Pork)
-2. [Desserter](##-)
-2. [Cakes and cookies](##-)
-2. [Vegetarian](##-)
+1. [Preps](##-preps)
+2. [Brød](##-breads)
+3. [Grød](##-grød)
+4. [Sauces](##-sauces)
+5. [Chicken](##-chicken)
+6. [Pork](##-pork)
+7. [Desserter](##-desserts)
+8. [Cakes and cookies](##-cakes-and-cookies)
+9. [Vegetarian](##-vegetarian)
 
 ## Preps
 ### Greens
@@ -340,6 +340,41 @@ Combine the milk with sifted flour in a medium bowl.  Whisk to blend all the flo
 Lightly butter an 8 inch crepe pan over medium high heat.  Using a paper towel , wipe some melted butter over entire pan.  Pour 2 Tbsp. (25 ml) batter into the top of pan and swirl around so batter reaches the outer edges of pan evenly.  Cook 1st side for 50 seconds - 1 minute.. Flip and cook other side for 30 seconds.  Repeat with remaining batter. 
 
 ## cakes and cookies
+
+### Carrot cake by Betty 
+#### Ingredients (enough for a large baking tray)
+Dough is very liquid!
+- 3 dl olie (tasteless: rapeseed, sunflower, corn)
+- 6 dl sugar
+- 6 eggs
+- 4.5 dl orange juice
+- 4.5 dl raisins
+- 3 dl chopped nuts (walnuts, almonds, hazelnuts, sunflower seeds)
+- 600 g. carrots (grated) / 4 dl
+- 3 tsp salt
+- 3 tbsp cinnamon
+- 6 tbsp vanilla sugar
+- 9 tsp baking powder
+- 600 g. flour
+
+#### Steps
+1. Mix oil and sugar
+2. Add eggs and orange juice
+3. Add raisins, nuts and carrots
+4. Mix salt, cinnamon, vanilla sugar, sifted baking powder and flour in a separate bowl
+5. Add dry ingredients to wet ingredients
+6. Bake at 170 degrees celcius for 45-60 minutes depending on oven and height of cake.
+
+#### Frosting
+Enough for a large baking tray
+- 50 g. soft butter
+- 100 g. cream cheese
+- 1 tsp vanilla sugar
+- 2 dl icing sugar
+
+![Carrot cake](./images/guelrodskage.jpg)
+
+
 ### oat cookies (much sweeter but to cakey)
 - 2 olive oil (or light melted coconut oil)
 - 4 eggs
