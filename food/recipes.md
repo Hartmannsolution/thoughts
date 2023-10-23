@@ -341,6 +341,17 @@ Lightly butter an 8 inch crepe pan over medium high heat.  Using a paper towel ,
 
 ## cakes and cookies
 
+### Aunt Marthas apple cake
+#### Ingredients
+200 g. butter
+200 g. sugar
+150 g. flour
+
+#### Steps
+mix to a creme
+6-8 large apples peeled and cut into small cubes
+Put in baking tray with 1 dl water and sprinkle ½ tbsp vanilla sugar over. Put the creme over the apples and bake at 200 degrees celcius till the surface is brown and delicious (about 30 min).
+
 ### Carrot cake by Betty 
 #### Ingredients (enough for a large baking tray)
 Dough is very liquid!
